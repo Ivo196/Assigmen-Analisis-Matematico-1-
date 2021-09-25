@@ -1,0 +1,38 @@
+.fuente-titulo {
+  font-family: 'Roboto', sans-serif;
+  background-color: #1E88E5
+;
+}
+.nota {background-color: #FFEC5C}
+.nota3 {
+    background-color: red;
+    font-size: 18px;
+    text-decoration: underline;
+} 
+.consejos {
+    text-align: right;
+    color: red;
+    font-size: 15pt;
+    font-weight: bold;
+    text-decoration:underline;
+}
+.herramientas {
+    font-size: 14pt;
+}
+.texto {
+    font-size: 13.5pt;
+}
+.link {
+    color: aqua;  
+}
+a {
+text-decoration: none; 
+color:blue;
+}
+a:hover {
+    background-color: #E53935 ;
+}
+{
+    font-size: 20pt
+    
+}
